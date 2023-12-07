@@ -8,6 +8,13 @@ run folllowing code
 ```npm install```
 
 
+# Project-1 
+
+[Password-Generator](https://glittering-heliotrope-52f27e.netlify.app/)
+
+# Project-2
+
+[Router](https://tiny-souffle-e7fce5.netlify.app/)
 
 
 
