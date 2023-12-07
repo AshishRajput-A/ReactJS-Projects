@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 ## Site Link
 
-[Passweord-Generatoir](https://glittering-heliotrope-52f27e.netlify.app/)
+[Passweord-Generator](https://glittering-heliotrope-52f27e.netlify.app/)
